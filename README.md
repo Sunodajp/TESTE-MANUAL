@@ -1,6 +1,6 @@
-# QA Manual - Demoblaze E-commerce
+ Demoblaze E-commerce
 
-Projeto de portfólio de QA Manual no site https://www.demoblaze.com
+QA Teste Manual no site https://www.demoblaze.com
 
 ## Objetivo
 Validar o fluxo crítico de compra antes de uma release fictícia.
