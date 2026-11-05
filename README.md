@@ -20,12 +20,6 @@ Usuário criado via Sign up no dia da execução
 - Testes positivos e negativos
 - Exploratório no checkout e Contact
 
-## Entregáveis
-- 01-Plano-de-Testes.md - plano v2.0 completo
-- Casos_de_Teste_Demoblaze.xlsx - 24 casos + 2 exploratórios
-- Relatorio_de_Execucao.pdf - 21 passaram, 5 falharam
-- 03-Bugs-Demoblaze.md - 5 bugs + 2 melhorias
-- /evidencias - prints dos bugs
 
 ## Principais bugs encontrados
 - BUG-003 Critical: Permite finalizar compra com carrinho vazio (CT-25)
